@@ -1,6 +1,6 @@
 import React from "react";
 import MernStack from "../assets/mernstack.png";
-import { stacks } from "../misc/stacks";
+import stacks from "../misc/Stacks";
 
 const About = () => {
   return (
