@@ -10,7 +10,7 @@ import Mongodb from "../assets/mongodb.svg";
 import Express from "../assets/Express.png";
 import NextJs from "../assets/NextJs.png";
 
-export const stacks = [
+const stacks = [
   {
     stack: "Html",
     image: Html,
@@ -56,3 +56,5 @@ export const stacks = [
     image: NextJs,
   },
 ];
+
+export default stacks;
