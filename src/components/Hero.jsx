@@ -1,4 +1,4 @@
-import hero from "../assets/Hero.png";
+import hero from "../assets/JM.png";
 import reactLogo from "../assets/React.png";
 import reduxLogo from "../assets/Redux.png";
 import tailwind from "../assets/Tailwind Css.png";
