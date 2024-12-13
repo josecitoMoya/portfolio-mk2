@@ -1,3 +1,4 @@
+import React from "react";
 import MernStack from "../assets/mernstack.png";
 import { stacks } from "../misc/stacks";
 
