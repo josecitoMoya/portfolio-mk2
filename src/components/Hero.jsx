@@ -16,10 +16,13 @@ const Hero = () => {
             </h1>
             <p className="md:text-2xl text-xl mb-4">Full Stack Developer</p>
             <p className="mb-4">
-              Soy un desarrollador web apasionado por crear sitios atractivos y
-              funcionales. Con experiencia en React, Next.js y tecnologías web
-              modernas, disfruto transformar ideas en soluciones que marcan una
-              verdadera diferencia en el mundo.
+              Soy una persona proactiva, organizada y responsable, con
+              excelentes habilidades interpersonales y una fuerte capacidad para
+              el trabajo en equipo. Mi experiencia abarca roles variados en
+              diferentes rubros. Mi motivación se centra en la innovación, la
+              optimización de procesos y la mejora continua, siempre buscando
+              aportar valor a la organización y alcanzar resultados
+              sobresalientes.
             </p>
             <button className="bg-black text-white px-3 py-2 w-max rounded-md">
               <a

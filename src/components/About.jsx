@@ -26,13 +26,10 @@ const About = () => {
                   Mi viaje
                 </h3>
                 <p className="mt-4 text-lg text-gray-600">
-                  Comencé mi camino en el desarrollo web con una gran pasión por
-                  crear aplicaciones intuitivas y escalables. Con dominio del
-                  stack MERN (MongoDB, Express.js, React y Node.js), he
-                  desarrollado proyectos como un sitio web para envios postales,
-                  un portal de compras entre otros. Mis proyectos demuestran mi
-                  capacidad para integrar potentes soluciones backend con
-                  diseños frontend elegantes y fáciles de usar.
+                  Durante más de 800 horas, he estado aprendiendo y practicando
+                  estas tecnologías. Estoy constantemente actualizándome y
+                  mejorando mis habilidades para estar al día con las últimas
+                  tendencias y mejores prácticas en el desarrollo de software.
                 </p>
                 <img
                   src={MernStack}
