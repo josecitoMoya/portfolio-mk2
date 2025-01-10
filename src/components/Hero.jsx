@@ -35,7 +35,7 @@ const Hero = () => {
             </button>
           </div>
           <div className="md:w-1/2 relative flex justify-center items-end">
-            <img src={hero} alt="" className="lg:h-[90vh] h-96" />
+            <img src={hero} alt="" className="lg:h-[90vh] h-96 rounded-full" />
             <img
               src={reactLogo}
               alt=""
